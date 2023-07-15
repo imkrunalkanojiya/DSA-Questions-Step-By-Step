@@ -19,3 +19,10 @@ This repository contains my solutions to the dsa problems.
 	- [Max Min of array](./02_Introduction-to-arrays/max-min-of-array/)
 	- [Reverse in range](./02_Introduction-to-arrays/reverse-in-range/)
 	- [Time to equality](./02_Introduction-to-arrays/time-to-equality/)
+
+- [Arrays Prefix Sum](./03_Arrays-prefix-sum)
+	- [Equilibrium index of an array](./03_Arrays-prefix-sum/equilibrium-index-of-an-array/)
+	- [Even number in range](./03_Arrays-prefix-sum/even-numbers-in-range/)
+	- [In-Place Prefix Sum](./03_Arrays-prefix-sum/in-place-prefix-sum/)
+	- [Range sum query](./03_Arrays-prefix-sum/range-sum-query/)
+	- [Product array puzzle](./03_Arrays-prefix-sum/product-array-puzzle/)
