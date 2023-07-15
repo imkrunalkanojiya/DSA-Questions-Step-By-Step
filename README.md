@@ -10,3 +10,12 @@ This repository contains my solutions to the dsa problems.
 	- [Find Perfect Numbers](./01_Introduction-to-problem-solving/find-perfect-numbers/)
 	- [Is Prime](./01_Introduction-to-problem-solving/is-prime/)
 	- [Square Root Of A Number](./01_Introduction-to-problem-solving/square-root-of-number/)
+
+- [Introduction to arrays](./02_Introduction-to-arrays)
+	- [Array Rotation](./02_Introduction-to-arrays/array-rotation/)
+	- [Count Of Elements](./02_Introduction-to-arrays/count-of-elements/)
+	- [Good Pair](./02_Introduction-to-arrays/good-pair/)
+	- [Linear Search Multiple Occurences](./02_Introduction-to-arrays/linear-search-multiple-occurences/)
+	- [Max Min of array](./02_Introduction-to-arrays/max-min-of-array/)
+	- [Reverse in range](./02_Introduction-to-arrays/reverse-in-range/)
+	- [Time to equality](./02_Introduction-to-arrays/time-to-equality/)
