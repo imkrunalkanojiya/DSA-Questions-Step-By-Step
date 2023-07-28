@@ -1,6 +1,6 @@
-# DSA-Questions-using-JavaScript
+# DSA Questions Step By Step
 
-This repository contains my solutions to the dsa problems.
+Looking to conquer challenging DSA questions? Find a treasure trove of DSA questions in our README file. Contribute your programming solutions and master DSA like a pro. Join now and embrace the world of algorithms and data structures.
 
 ## Table Of Content
 
@@ -26,3 +26,8 @@ This repository contains my solutions to the dsa problems.
 	- [In-Place Prefix Sum](./03_Arrays-prefix-sum/in-place-prefix-sum/)
 	- [Range sum query](./03_Arrays-prefix-sum/range-sum-query/)
 	- [Product array puzzle](./03_Arrays-prefix-sum/product-array-puzzle/)
+
+- [Arrays carry forword](./04_Array-carry-forword)
+	- [Closest Min/Max](./04_Array-carry-forword/closest-min-max/)
+	- [Leaders in an array](./04_Array-carry-forword/leaders-in-an-array/)
+	- [Special Subsequences](./04_Array-carry-forword/special-subsequences/)
